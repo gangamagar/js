@@ -1,1 +1,4 @@
-
+const accountId = 1122
+let accountEmail = "gg@gmail.com"
+let accountPassword = "1111"
+accountCity = "ktm"
